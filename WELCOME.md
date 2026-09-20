@@ -48,28 +48,31 @@ Friday thinks using a free local AI engine called **Ollama**. You install it onc
 
 1. Go to the [**Releases**](../../releases/latest) page.
 2. Under the latest release, download the file named
-   **`Friday.Voice.Agent-<version>-win.zip`**.
-3. Find the downloaded `.zip` (usually in your **Downloads** folder),
-   **right-click it → Extract All… → Extract**. This unzips it into a folder.
-
-> There is **no setup wizard** to click through — Friday is a portable app. The
-> folder you just unzipped *is* the app.
+   **`Friday-Voice-Agent-Setup-<version>.exe`**.
 
 ---
 
-## Step 3 — Run Friday
+## Step 3 — Install & run Friday
 
-1. Open the unzipped folder.
-2. Double-click **`Friday Voice Agent.exe`**.
+1. Open the file you just downloaded (usually in your **Downloads** folder).
 
-**The first time**, Windows may show a blue box that says *"Windows protected
-your PC"*. This happens with all free apps that aren't paid-signed. Just click:
+   **The first time**, Windows may show a blue box that says *"Windows protected
+   your PC"*. This happens with all free apps that aren't paid-signed. Just click:
 
-- **More info**
-- then **Run anyway**
+   - **More info**
+   - then **Run anyway**
+
+2. The installer opens. It installs **just for you** and needs **no administrator
+   password**. Click through **Next → Install → Finish**. (You can tick "Create a
+   desktop icon" along the way if you'd like one.)
+3. Launch **Friday Voice Agent** — from the **Start menu**, the **desktop icon**,
+   or leave "Launch Friday Voice Agent" ticked on the last installer screen.
 
 Friday opens. If Ollama is running, the top of the window says **ALL SYSTEMS
 ONLINE (LOCAL)**.
+
+> **To uninstall later:** open Windows **Settings → Apps**, find *Friday Voice
+> Agent*, and click **Uninstall**.
 
 ---
 

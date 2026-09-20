@@ -1,5 +1,13 @@
 # Changelog
 
+## 2.0.1
+
+- Now distributed as a proper **Windows installer** (`Friday-Voice-Agent-Setup-*.exe`)
+  instead of a zip — installs per-user with no administrator rights, and adds
+  Start-menu and optional desktop shortcuts.
+- **Faster startup**: the speech-to-text engine now warms up only when you open
+  voice mode, so the app no longer pauses on the heavy model at launch.
+
 ## 2.0.0
 
 The free demo grows from a single-screen voice loop into a full **chatbot +

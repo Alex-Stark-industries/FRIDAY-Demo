@@ -10,8 +10,8 @@ with **no account, no API key, no subscription, no cloud, and no telemetry.**
 Nothing you say is sent to any server; the model runs locally through
 [Ollama](https://ollama.com), and the voice runs on-device.
 
-> **Local. Private. Free.** Download it, unzip it, run it. Friday replies in
-> **English**.
+> **Local. Private. Free.** Download the installer, run it, and start talking.
+> Friday replies in **English**.
 
 This is a free taste of the larger **Friday** desktop assistant. It keeps just
 two things — the **chat** and the **advanced voice mode** — and nothing else.
@@ -50,19 +50,17 @@ two things — the **chat** and the **advanced voice mode** — and nothing else
 
 ---
 
-### Download & run — no installer
-
-There is **no installation process**. Friday is a portable app: download, unzip,
-and run.
+### Download & install
 
 1. Open the [**Releases**](../../releases/latest) page and download
-   `Friday.Voice.Agent-<version>-win.zip`.
-2. **Unzip it** anywhere (e.g. your Desktop).
-3. Open the unzipped folder and double-click **`Friday Voice Agent.exe`**.
+   `Friday-Voice-Agent-Setup-<version>.exe`.
+2. Run it. The installer is **per-user** — it needs **no administrator rights**.
+3. Launch **Friday Voice Agent** from the Start menu (or the desktop shortcut, if
+   you asked for one).
 
-> **First launch:** the app isn't code-signed, so Windows SmartScreen may show
-> *"Windows protected your PC"*. Click **More info → Run anyway**. This is normal
-> for free, independent apps.
+> **First launch:** the installer isn't code-signed, so Windows SmartScreen may
+> show *"Windows protected your PC"*. Click **More info → Run anyway**. This is
+> normal for free, independent apps.
 
 New here? The [**Welcome & Setup guide**](WELCOME.md) walks you through every step
 with nothing assumed.
