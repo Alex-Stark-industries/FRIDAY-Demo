@@ -1,4 +1,4 @@
-# Welcome to Friday 👋
+# Welcome to Friday 👾
 
 🌐 **English** · [Italiano](translations/WELCOME.it.md) · [Español](translations/WELCOME.es.md) · [Français](translations/WELCOME.fr.md) · [Deutsch](translations/WELCOME.de.md) · [Português](translations/WELCOME.pt.md) · [हिन्दी](translations/WELCOME.hi.md)
 
