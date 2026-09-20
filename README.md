@@ -1,4 +1,4 @@
-# FRIDAY Demo — a free, local-first chatbot & voice agent
+# FRIDAY Demo — free & unlimited, local-first chatbot & vocal mode
 
 [![Download](https://img.shields.io/badge/Download-Latest%20Release-e91e63?logo=github)](../../releases/latest)
 [![License](https://img.shields.io/badge/License-MIT-2ea44f)](LICENSE)
