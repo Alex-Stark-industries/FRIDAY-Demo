@@ -2,6 +2,7 @@
 
 🌐 **English** · [Italiano](translations/README.it.md) · [Español](translations/README.es.md) · [Français](translations/README.fr.md) · [Deutsch](translations/README.de.md) · [Português](translations/README.pt.md) · [हिन्दी](translations/README.hi.md)
 
+[![Website](https://img.shields.io/badge/Website-friday--demo-e91e63)](https://alex-stark-industries.github.io/FRIDAY-Demo/)
 [![Download](https://img.shields.io/badge/Download-Latest%20Release-e91e63?logo=github)](../../releases/latest)
 [![License](https://img.shields.io/badge/License-MIT-2ea44f)](LICENSE)
 [![Platform](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D6?logo=windows)](../../releases/latest)
