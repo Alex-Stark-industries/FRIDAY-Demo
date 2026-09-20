@@ -1,10 +1,10 @@
 # FRIDAY Demo — un chatbot y agente de voz gratuito, todo en local
 
-🌐 [English](README.md) · [Italiano](README.it.md) · **Español** · [Français](README.fr.md) · [Deutsch](README.de.md) · [Português](README.pt.md) · [हिन्दी](README.hi.md)
+🌐 [English](../README.md) · [Italiano](README.it.md) · **Español** · [Français](README.fr.md) · [Deutsch](README.de.md) · [Português](README.pt.md) · [हिन्दी](README.hi.md)
 
-[![Descargar](https://img.shields.io/badge/Descargar-%C3%9Altima%20versi%C3%B3n-e91e63?logo=github)](../../releases/latest)
-[![Licencia](https://img.shields.io/badge/Licencia-MIT-2ea44f)](LICENSE)
-[![Plataforma](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D6?logo=windows)](../../releases/latest)
+[![Descargar](https://img.shields.io/badge/Descargar-%C3%9Altima%20versi%C3%B3n-e91e63?logo=github)](https://github.com/Alex-Stark-industries/FRIDAY-Demo/releases/latest)
+[![Licencia](https://img.shields.io/badge/Licencia-MIT-2ea44f)](../LICENSE)
+[![Plataforma](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D6?logo=windows)](https://github.com/Alex-Stark-industries/FRIDAY-Demo/releases/latest)
 
 **Un chatbot y asistente de voz con IA, gratuito, que se ejecuta por completo en
 tu propio ordenador.** Escribe o habla — Friday responde por texto y también en
@@ -40,13 +40,13 @@ nada más.
 <td width="50%">
 
 **Chat** — el núcleo neuronal, los diagnósticos en vivo y una conversación en streaming con el modelo local.
-<img src="docs/screenshots/chat.png" alt="Interfaz de chat de Friday Demo" width="100%">
+<img src="../docs/screenshots/chat.png" alt="Interfaz de chat de Friday Demo" width="100%">
 
 </td>
 <td width="50%">
 
 **Modo de voz avanzado** — una esfera reactiva a pantalla completa con detección neuronal del micrófono; mantén pulsado Espacio o toca para hablar.
-<img src="docs/screenshots/voice.png" alt="Modo de voz avanzado de Friday Demo" width="100%">
+<img src="../docs/screenshots/voice.png" alt="Modo de voz avanzado de Friday Demo" width="100%">
 
 </td>
 </tr>
@@ -56,7 +56,7 @@ nada más.
 
 ### Descarga e instalación
 
-1. Abre la página de [**Releases**](../../releases/latest) y descarga
+1. Abre la página de [**Releases**](https://github.com/Alex-Stark-industries/FRIDAY-Demo/releases/latest) y descarga
    `Friday-Voice-Agent-Setup-<versión>.exe`.
 2. Ejecútalo. El instalador es **por usuario** — **no requiere permisos de
    administrador**.
@@ -93,8 +93,8 @@ La primera vez que abras la voz, se descargan una sola vez los modelos de voz
 | Documento | De qué trata |
 |---|---|
 | [Bienvenida e instalación](WELCOME.es.md) | Para principiantes, paso a paso: instalar, iniciar, primer chat, primera voz |
-| [Changelog](CHANGELOG.md) | Qué cambió en cada versión (en inglés) |
-| [Licencia](LICENSE) | MIT — uso libre |
+| [Changelog](../CHANGELOG.md) | Qué cambió en cada versión (en inglés) |
+| [Licencia](../LICENSE) | MIT — uso libre |
 
 ---
 
@@ -134,5 +134,5 @@ incluido `qwen2.5:3b`.
 
 ### Licencia
 
-MIT — uso libre. Consulta [LICENSE](LICENSE). El producto **Friday** completo del
+MIT — uso libre. Consulta [LICENSE](../LICENSE). El producto **Friday** completo del
 que esto es una vista previa es una aplicación separada y propietaria.

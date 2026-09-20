@@ -1,6 +1,6 @@
 # Bem-vindo à Friday 👋
 
-🌐 [English](WELCOME.md) · [Italiano](WELCOME.it.md) · [Español](WELCOME.es.md) · [Français](WELCOME.fr.md) · [Deutsch](WELCOME.de.md) · **Português** · [हिन्दी](WELCOME.hi.md)
+🌐 [English](../WELCOME.md) · [Italiano](WELCOME.it.md) · [Español](WELCOME.es.md) · [Français](WELCOME.fr.md) · [Deutsch](WELCOME.de.md) · **Português** · [हिन्दी](WELCOME.hi.md)
 
 Este guia leva você do zero até conversar com a Friday, sem pressupor **nada**. Se
 você sabe baixar um arquivo, sabe iniciar a Friday.
@@ -60,7 +60,7 @@ instala uma única vez.
 
 ## Passo 2 — Baixe a Friday
 
-1. Acesse a página de [**Releases**](../../releases/latest).
+1. Acesse a página de [**Releases**](https://github.com/Alex-Stark-industries/FRIDAY-Demo/releases/latest).
 2. Na versão mais recente, baixe o arquivo chamado
    **`Friday-Voice-Agent-Setup-<versão>.exe`**.
 

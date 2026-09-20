@@ -1,10 +1,10 @@
 # FRIDAY Demo — ein kostenloser, lokaler Chatbot & Sprachassistent
 
-🌐 [English](README.md) · [Italiano](README.it.md) · [Español](README.es.md) · [Français](README.fr.md) · **Deutsch** · [Português](README.pt.md) · [हिन्दी](README.hi.md)
+🌐 [English](../README.md) · [Italiano](README.it.md) · [Español](README.es.md) · [Français](README.fr.md) · **Deutsch** · [Português](README.pt.md) · [हिन्दी](README.hi.md)
 
-[![Download](https://img.shields.io/badge/Download-Neueste%20Version-e91e63?logo=github)](../../releases/latest)
-[![Lizenz](https://img.shields.io/badge/Lizenz-MIT-2ea44f)](LICENSE)
-[![Plattform](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D6?logo=windows)](../../releases/latest)
+[![Download](https://img.shields.io/badge/Download-Neueste%20Version-e91e63?logo=github)](https://github.com/Alex-Stark-industries/FRIDAY-Demo/releases/latest)
+[![Lizenz](https://img.shields.io/badge/Lizenz-MIT-2ea44f)](../LICENSE)
+[![Plattform](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D6?logo=windows)](https://github.com/Alex-Stark-industries/FRIDAY-Demo/releases/latest)
 
 **Ein kostenloser KI-Chatbot und Sprachassistent, der vollständig auf deinem
 eigenen Computer läuft.** Tippen oder sprechen — Friday antwortet als Text und
@@ -40,13 +40,13 @@ Sprachmodus** — und sonst nichts.
 <td width="50%">
 
 **Chat** — der neuronale Kern, Live-Diagnosen und ein gestreamtes Gespräch mit dem lokalen Modell.
-<img src="docs/screenshots/chat.png" alt="Chat-Oberfläche von Friday Demo" width="100%">
+<img src="../docs/screenshots/chat.png" alt="Chat-Oberfläche von Friday Demo" width="100%">
 
 </td>
 <td width="50%">
 
 **Erweiterter Sprachmodus** — eine bildschirmfüllende, reaktive Kugel mit neuronaler Mikro-Erkennung; Leertaste halten oder tippen zum Sprechen.
-<img src="docs/screenshots/voice.png" alt="Erweiterter Sprachmodus von Friday Demo" width="100%">
+<img src="../docs/screenshots/voice.png" alt="Erweiterter Sprachmodus von Friday Demo" width="100%">
 
 </td>
 </tr>
@@ -56,7 +56,7 @@ Sprachmodus** — und sonst nichts.
 
 ### Download & Installation
 
-1. Öffne die Seite [**Releases**](../../releases/latest) und lade
+1. Öffne die Seite [**Releases**](https://github.com/Alex-Stark-industries/FRIDAY-Demo/releases/latest) und lade
    `Friday-Voice-Agent-Setup-<Version>.exe` herunter.
 2. Führe sie aus. Der Installer ist **pro Benutzer** — er **braucht keine
    Administratorrechte**.
@@ -93,8 +93,8 @@ Beim ersten Öffnen der Stimme werden die Sprachmodelle einmalig heruntergeladen
 | Dokument | Inhalt |
 |---|---|
 | [Willkommen & Einrichtung](WELCOME.de.md) | Für Einsteiger, Schritt für Schritt: installieren, starten, erster Chat, erste Stimme |
-| [Changelog](CHANGELOG.md) | Was sich in jeder Version geändert hat (auf Englisch) |
-| [Lizenz](LICENSE) | MIT — freie Nutzung |
+| [Changelog](../CHANGELOG.md) | Was sich in jeder Version geändert hat (auf Englisch) |
+| [Lizenz](../LICENSE) | MIT — freie Nutzung |
 
 ---
 
@@ -134,6 +134,6 @@ enthaltene Modell `qwen2.5:3b`.
 
 ### Lizenz
 
-MIT — freie Nutzung. Siehe [LICENSE](LICENSE). Das vollständige Produkt
+MIT — freie Nutzung. Siehe [LICENSE](../LICENSE). Das vollständige Produkt
 **Friday**, das hier in der Vorschau gezeigt wird, ist eine separate, proprietäre
 Anwendung.

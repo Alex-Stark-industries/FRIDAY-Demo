@@ -1,6 +1,6 @@
 # Welcome to Friday 👋
 
-🌐 **English** · [Italiano](WELCOME.it.md) · [Español](WELCOME.es.md) · [Français](WELCOME.fr.md) · [Deutsch](WELCOME.de.md) · [Português](WELCOME.pt.md) · [हिन्दी](WELCOME.hi.md)
+🌐 **English** · [Italiano](translations/WELCOME.it.md) · [Español](translations/WELCOME.es.md) · [Français](translations/WELCOME.fr.md) · [Deutsch](translations/WELCOME.de.md) · [Português](translations/WELCOME.pt.md) · [हिन्दी](translations/WELCOME.hi.md)
 
 This guide gets you from zero to talking with Friday, assuming **nothing**. If
 you can download a file and unzip it, you can run Friday.

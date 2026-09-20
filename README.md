@@ -1,6 +1,6 @@
 # FRIDAY Demo — free & unlimited, local-first chatbot & vocal mode
 
-🌐 **English** · [Italiano](README.it.md) · [Español](README.es.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [Português](README.pt.md) · [हिन्दी](README.hi.md)
+🌐 **English** · [Italiano](translations/README.it.md) · [Español](translations/README.es.md) · [Français](translations/README.fr.md) · [Deutsch](translations/README.de.md) · [Português](translations/README.pt.md) · [हिन्दी](translations/README.hi.md)
 
 [![Download](https://img.shields.io/badge/Download-Latest%20Release-e91e63?logo=github)](../../releases/latest)
 [![License](https://img.shields.io/badge/License-MIT-2ea44f)](LICENSE)

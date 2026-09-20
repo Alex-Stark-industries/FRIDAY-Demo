@@ -1,6 +1,6 @@
 # Friday में आपका स्वागत है 👋
 
-🌐 [English](WELCOME.md) · [Italiano](WELCOME.it.md) · [Español](WELCOME.es.md) · [Français](WELCOME.fr.md) · [Deutsch](WELCOME.de.md) · [Português](WELCOME.pt.md) · **हिन्दी**
+🌐 [English](../WELCOME.md) · [Italiano](WELCOME.it.md) · [Español](WELCOME.es.md) · [Français](WELCOME.fr.md) · [Deutsch](WELCOME.de.md) · [Português](WELCOME.pt.md) · **हिन्दी**
 
 यह गाइड आपको शून्य से लेकर Friday से बात करने तक ले जाती है, बिना **कुछ भी** मान लिए।
 अगर आप कोई फ़ाइल डाउनलोड कर सकते हैं, तो आप Friday चला सकते हैं।
@@ -57,7 +57,7 @@ Friday **Ollama** नाम के एक मुफ़्त लोकल AI इ
 
 ## चरण 2 — Friday डाउनलोड कीजिए
 
-1. [**Releases**](../../releases/latest) पेज पर जाइए।
+1. [**Releases**](https://github.com/Alex-Stark-industries/FRIDAY-Demo/releases/latest) पेज पर जाइए।
 2. नवीनतम रिलीज़ के अंतर्गत, **`Friday-Voice-Agent-Setup-<version>.exe`** नाम की फ़ाइल
    डाउनलोड कीजिए।
 

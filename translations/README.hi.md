@@ -1,10 +1,10 @@
 # FRIDAY Demo — एक मुफ़्त, पूरी तरह लोकल चैटबॉट और वॉइस एजेंट
 
-🌐 [English](README.md) · [Italiano](README.it.md) · [Español](README.es.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [Português](README.pt.md) · **हिन्दी**
+🌐 [English](../README.md) · [Italiano](README.it.md) · [Español](README.es.md) · [Français](README.fr.md) · [Deutsch](README.de.md) · [Português](README.pt.md) · **हिन्दी**
 
-[![डाउनलोड](https://img.shields.io/badge/%E0%A4%A1%E0%A4%BE%E0%A4%89%E0%A4%A8%E0%A4%B2%E0%A5%8B%E0%A4%A1-Latest%20Release-e91e63?logo=github)](../../releases/latest)
-[![लाइसेंस](https://img.shields.io/badge/License-MIT-2ea44f)](LICENSE)
-[![प्लेटफ़ॉर्म](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D6?logo=windows)](../../releases/latest)
+[![डाउनलोड](https://img.shields.io/badge/%E0%A4%A1%E0%A4%BE%E0%A4%89%E0%A4%A8%E0%A4%B2%E0%A5%8B%E0%A4%A1-Latest%20Release-e91e63?logo=github)](https://github.com/Alex-Stark-industries/FRIDAY-Demo/releases/latest)
+[![लाइसेंस](https://img.shields.io/badge/License-MIT-2ea44f)](../LICENSE)
+[![प्लेटफ़ॉर्म](https://img.shields.io/badge/Windows-10%20%2F%2011-0078D6?logo=windows)](https://github.com/Alex-Stark-industries/FRIDAY-Demo/releases/latest)
 
 **एक मुफ़्त AI चैटबॉट और वॉइस असिस्टेंट जो पूरी तरह आपके अपने कंप्यूटर पर चलता है।**
 लिखिए या बोलिए — Friday टेक्स्ट में जवाब देती है और आपकी चुनी हुई आवाज़ में बोलकर भी —
@@ -38,13 +38,13 @@
 <td width="50%">
 
 **चैट** — न्यूरल कोर, लाइव डायग्नोस्टिक्स, और लोकल मॉडल के साथ स्ट्रीम होती बातचीत।
-<img src="docs/screenshots/chat.png" alt="Friday Demo चैट इंटरफ़ेस" width="100%">
+<img src="../docs/screenshots/chat.png" alt="Friday Demo चैट इंटरफ़ेस" width="100%">
 
 </td>
 <td width="50%">
 
 **एडवांस्ड वॉइस मोड** — न्यूरल माइक-डिटेक्शन के साथ पूरे स्क्रीन पर एक रिएक्टिव स्फ़ीयर; बोलने के लिए Space दबाए रखिए या टैप कीजिए।
-<img src="docs/screenshots/voice.png" alt="Friday Demo एडवांस्ड वॉइस मोड" width="100%">
+<img src="../docs/screenshots/voice.png" alt="Friday Demo एडवांस्ड वॉइस मोड" width="100%">
 
 </td>
 </tr>
@@ -54,7 +54,7 @@
 
 ### डाउनलोड और इंस्टॉल
 
-1. [**Releases**](../../releases/latest) पेज खोलिए और
+1. [**Releases**](https://github.com/Alex-Stark-industries/FRIDAY-Demo/releases/latest) पेज खोलिए और
    `Friday-Voice-Agent-Setup-<version>.exe` डाउनलोड कीजिए।
 2. इसे चलाइए। इंस्टॉलर **प्रति-उपयोगकर्ता** है — इसे **एडमिनिस्ट्रेटर अधिकारों की ज़रूरत
    नहीं**।
@@ -89,8 +89,8 @@ Friday का "दिमाग़" **Ollama** के ज़रिए लोक�
 | दस्तावेज़ | किस बारे में |
 |---|---|
 | [वेलकम और सेटअप](WELCOME.hi.md) | शुरुआती लोगों के लिए, कदम-दर-कदम: इंस्टॉल, चलाना, पहली चैट, पहली आवाज़ |
-| [चेंजलॉग](CHANGELOG.md) | हर वर्ज़न में क्या बदला (अंग्रेज़ी में) |
-| [लाइसेंस](LICENSE) | MIT — मुफ़्त उपयोग |
+| [चेंजलॉग](../CHANGELOG.md) | हर वर्ज़न में क्या बदला (अंग्रेज़ी में) |
+| [लाइसेंस](../LICENSE) | MIT — मुफ़्त उपयोग |
 
 ---
 
@@ -128,5 +128,5 @@ Friday AI मॉडल और आवाज़ **आपकी अपनी मश
 
 ### लाइसेंस
 
-MIT — मुफ़्त उपयोग। [LICENSE](LICENSE) देखिए। जिसका यह पूर्वावलोकन है, वह पूरा **Friday**
+MIT — मुफ़्त उपयोग। [LICENSE](../LICENSE) देखिए। जिसका यह पूर्वावलोकन है, वह पूरा **Friday**
 प्रोडक्ट एक अलग, प्रोप्राइटरी एप्लिकेशन है।
