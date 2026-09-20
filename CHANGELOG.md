@@ -1,5 +1,19 @@
 # Changelog
 
+## 2.0.2
+
+Chat and voice now behave like the full Friday app.
+
+- **Much faster replies** — the model is kept loaded in the background, so the
+  first message (and every message after a pause) no longer waits several
+  seconds for a cold start. Warmed up, replies begin in about a second.
+- **Reliably in English, and stable** — added the same repetition safeguards and
+  full persona prompt the full product uses, which stops the occasional garbled
+  or non-English drift.
+- **Clearer speech** — she no longer spells acronyms out letter by letter
+  (says "AI", not "A.I."; "Friday", not "F.R.I.D.A.Y.") and drops the clumsy
+  pause before "boss".
+
 ## 2.0.1
 
 - Now distributed as a proper **Windows installer** (`Friday-Voice-Agent-Setup-*.exe`)
