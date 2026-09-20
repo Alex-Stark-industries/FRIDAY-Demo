@@ -91,11 +91,26 @@ hundred MB) and then works offline forever.
 
 ---
 
-### Requirements
+### System requirements
 
-- **Windows 10 / 11**
-- **[Ollama](https://ollama.com)** running locally with `qwen2.5:3b` pulled
-- A GPU makes the voice snappy; it still works without one, just slower.
+Friday runs the AI model and the voice **on your own machine**, so what you get
+depends on your PC. These are realistic minimums for the bundled `qwen2.5:3b`
+model.
+
+| | Minimum | Recommended |
+|---|---|---|
+| **OS** | Windows 10 / 11, 64-bit | Windows 11, 64-bit |
+| **CPU** | Any modern 64-bit (x64) processor | Recent multi-core CPU |
+| **RAM** | 8 GB | 16 GB |
+| **Free disk** | ~4 GB (app ≈0.5 GB · model ≈2 GB · speech models ≈0.5 GB) | 6 GB+ |
+| **GPU** | None — runs on CPU (voice is slower) | A GPU with **WebGPU** support (recent NVIDIA / AMD / Intel) for snappy voice |
+| **Internet** | For one-time setup only (Ollama, model, first-voice download) | — |
+
+- **[Ollama](https://ollama.com)** must be running locally with `qwen2.5:3b`
+  pulled (`ollama pull qwen2.5:3b`).
+- Everything else — chat and voice — runs offline once set up.
+- With less RAM or no GPU, Friday still works; replies and speech just take
+  longer.
 
 ---
 

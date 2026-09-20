@@ -11,13 +11,21 @@ account, no sign-up, and no paid subscription. Friday replies in **English**.
 
 ## What you need
 
-- A **Windows 10 or 11** PC.
-- About **1 GB** of free disk space (a few hundred MB more the first time you use
-  the voice).
+- A **Windows 10 or 11** PC (64-bit).
+- **8 GB of RAM** or more (16 GB is comfortable). Friday runs the AI on your own
+  machine, so memory matters.
+- About **4 GB of free disk space** in total: the app itself (~0.5 GB), the AI
+  model you download once (~2 GB), and the speech models downloaded on first
+  voice use (~0.5 GB).
 - An internet connection **for setup only** — once it's set up, the chat and
   voice run offline.
 
-A graphics card (GPU) makes the voice faster, but Friday works without one too.
+A graphics card (GPU) with **WebGPU** support (any recent NVIDIA, AMD, or Intel
+GPU) makes the voice fast — but Friday works without one too, just slower. On a
+lower-spec PC everything still runs; replies and speech simply take a bit longer.
+
+> Not sure about your PC? Press the **Windows key**, type **"About your PC"**, and
+> open it — it shows your Windows version, processor, and installed RAM.
 
 ---
 
