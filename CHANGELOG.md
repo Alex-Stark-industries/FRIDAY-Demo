@@ -1,5 +1,12 @@
 # Changelog
 
+## 2.0.3
+
+- **Fixed the voice** — spoken replies were coming out garbled and hard to
+  understand on some graphics cards. Friday now generates speech on a path that
+  is clear and correct on every machine, and trims the dead air between
+  sentences so it no longer sounds choppy.
+
 ## 2.0.2
 
 Chat and voice now behave like the full Friday app.
