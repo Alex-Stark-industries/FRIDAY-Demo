@@ -93,6 +93,9 @@
   .shot img{display:block;width:100%;height:auto}
   .shot figcaption{font-family:var(--mono);font-size:.78rem;color:var(--muted);padding:12px 16px;border-top:1px solid rgba(255,255,255,.05)}
   .shot figcaption b{color:var(--pink-2);font-weight:500}
+  .demo{padding:24px 0 8px}
+  .demo .shot{max-width:960px;margin:0 auto}
+  .demo video{display:block;width:100%;height:auto;aspect-ratio:16/9;background:#000}
 
   /* ---------- sections ---------- */
   section{padding:64px 0}
@@ -187,6 +190,18 @@
   </section>
 
   <!-- SCREENSHOTS -->
+  <section class="demo" aria-label="Demo video">
+    <div class="wrap">
+      <figure class="shot">
+        <video controls preload="metadata" playsinline poster="docs/screenshots/voice.png">
+          <source src="docs/media/FRIDAY-Presentation-4K.mp4" type="video/mp4">
+          Your browser cannot play embedded video. <a href="docs/media/FRIDAY-Presentation-4K.mp4">Download the demo video</a>.
+        </video>
+        <figcaption><b>Watch the demo</b> — Friday in action.</figcaption>
+      </figure>
+    </div>
+  </section>
+
   <section class="shots" aria-label="Screenshots">
     <div class="wrap shots-grid">
       <figure class="shot">
